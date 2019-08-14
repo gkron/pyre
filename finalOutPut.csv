@@ -1,0 +1,4 @@
+,name,email,mobile_number,skills,experience,education,company
+0,Ganesh Kumar,gkron18@gmail.com,9999135778,"['Kafka', 'Python', 'Selenium', 'Hbase', 'Java', 'Test link', 'Hive', 'Sql', 'Jira', 'Spark']",['9.3 year'],"[('Msc(IT)', '2012')]",['Impetus']
+1,Ratnesh Kumar,ratneshkjaiswal7@gmail.com,+919643793873,"['Spark', 'Sql', 'Hive', 'Emr', 'Python', 'Java', 'Aws']","['5 year',","[('BE', '2012')]","['Hcl', 'Impetus']"
+2,Shweta Sharma,shweta.sharma0718@gmail.com,+918800911134,"['Spark', 'Sql', 'Jira', 'Hive', 'Python', 'Kafka']","['3 year',",['BTECH'],"['Clairvoyantsoft', 'Wipro technologies']"
